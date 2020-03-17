@@ -16,4 +16,4 @@ app.get("/oi",(req, resp)=>{
 app.use(express.json())
 app.use(routes)
 
-app.listen(5000)
+app.listen(8080)
